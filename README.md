@@ -102,8 +102,8 @@
 
 <h4>🎓 Education</h4>
 <p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg.pngE" width=40 height=40> &nbsp;
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
-<img src="https://media.licdn.com/dms/image/D4D12AQEoDS1iaNL-dA/article-cover_image-shrink_720_1280/0/1675056359235?e=2147483647&v=beta&t=_okL2TWpR9u8oWi_b-XuW9JRwsECgsrUv7-tno1hVlE" width=150 height=60> &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
 </p>
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
