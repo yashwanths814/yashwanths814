@@ -154,7 +154,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
-<a href="(mailto:yashwanths814@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
+<a href="mailto:yashwanths814@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
 <a href="https://www.linkedin.com/in/yashwanths814/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp;
 <a href="https://linktr.ee/yashwanths814"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
 <a href="https://twitter.com/yashwanths814"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a> &nbsp;
