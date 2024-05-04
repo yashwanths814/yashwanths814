@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science and Engineering Student | Open-source Enthusiast</h3>
 
 -------------------------------------------
-
 ![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/628b9187-2283-4b5b-a07b-a7e264340129)
-
 -------------------------------------------
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
