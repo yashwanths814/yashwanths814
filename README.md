@@ -21,9 +21,13 @@
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
 </p>
-![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
-<h4 align="left">Frameworks</h4>
 
+<h4 align="left">Frameworks</h4>
+<p>
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> &nbsp;
+
+
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
 
 
