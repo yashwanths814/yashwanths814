@@ -60,6 +60,25 @@
 <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon"> &nbsp;
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> 
 </p>
+
+<h4 align="left">Cloud Storage/h4>
+<p>
+<img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"> &nbsp;
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> 
+</p>
+
+<h4 align="left">Machine Learning/h4>
+<p>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> 
+</p>
+<h4 align="left">Blog/h4>
+<p>
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
 
 <img src="https://flutterflow.io/images/logo_primary_color_onLight.svg width=3000 height=1000"> &nbsp;
