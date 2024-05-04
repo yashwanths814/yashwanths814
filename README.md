@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yashwanth S</h1>
 <h3 align="center">Computer Science and Engineering Student | Open-source Enthusiast</h3>
-
+------------------------------------------
+<h4 align="left">About</h4>
+<p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
 
 <h3 align="left">Connect with me:</h3>
