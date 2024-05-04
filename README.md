@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashwanth S</h1>
 <h3 align="center">Computer Science and Engineering Student | Open-source Enthusiast</h3>
 
--------------------------------------------
+<hr>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" alt="Mindsphere" width=80px"/>
+//![Mindsphere](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif)
 
-![Mindsphere](https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif)
-
+<hr>
 -------------------------------------------
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
