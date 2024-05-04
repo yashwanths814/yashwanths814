@@ -100,10 +100,10 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 </p>
 
-<h4>Education</h4>
+<h4>🎓 Education</h4>
 <p>
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
-<img src="https://media.licdn.com/dms/image/D4D12AQEoDS1iaNL-dA/article-cover_image-shrink_720_1280/0/1675056359235?e=2147483647&v=beta&t=_okL2TWpR9u8oWi_b-XuW9JRwsECgsrUv7-tno1hVlE" width=120 height=30> &nbsp;
+<img src="https://media.licdn.com/dms/image/D4D12AQEoDS1iaNL-dA/article-cover_image-shrink_720_1280/0/1675056359235?e=2147483647&v=beta&t=_okL2TWpR9u8oWi_b-XuW9JRwsECgsrUv7-tno1hVlE" width=150 height=10> &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
 </p>
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
