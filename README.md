@@ -61,13 +61,13 @@
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> 
 </p>
 
-<h4 align="left">Cloud Storage/h4>
+<h4 align="left">Cloud Storage</h4>
 <p>
 <img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> 
 </p>
 
-<h4 align="left">Machine Learning/h4>
+<h4 align="left">Machine Learning</h4>
 <p>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> &nbsp;
