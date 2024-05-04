@@ -6,11 +6,11 @@
 <img src="NatureWithTech.jpg" alt="NatureWithTech" width=1100>
 
 <hr>
--------------------------------------------
+
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
+<br>
 <h3 align="left">Skills and Tools Usage</h3>
-![MasterHead](https://github.com/k-arthik-r/k-arthik-r/assets/111432615/628b9187-2283-4b5b-a07b-a7e264340129)
 <h4 align="left">Programming Languages</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
