@@ -9,7 +9,12 @@
 
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
-
+<p>
+- 🔭 Check out my <a href="https://drive.google.com/file/d/1bRY40FKWpMLd4DNeZD43V-M4XLFv9BEe/view?usp=drive_link"><b>Resume</b></a>
+- 💻 All of my projects are available on <a href="https://github.com/yashwanths814/"><b>GitHub</b></a>
+- 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
+- 👯 I am open to collaboration with creators, developers and tech enthusiasts.
+</p>
 <h3 align="left">Skills and Tools Usage</h3>
 
 <h4 align="left">📋 Programming Languages</h4>
@@ -149,10 +154,10 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814"/></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
-</br>
-<hr>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
