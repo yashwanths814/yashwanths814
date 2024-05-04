@@ -39,10 +39,11 @@
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 </p>
 
-<h4 align="left">🕓 Version Control</h4>
+<h4 align="left">🕓 Version Control/🔬 CI</h4>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> &nbsp;
 </p>
 
 <h4 align="left">🎨 Design</h4>
@@ -72,7 +73,6 @@
 <h4>🎛️ Operating System</h4>
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
@@ -104,6 +104,9 @@
 <p>
 <img src="https://avatars.githubusercontent.com/u/77673807?v=4" width=40 height=30> &nbsp;
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
 </p>
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
@@ -121,13 +124,28 @@
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
-
-<img src="https://flutterflow.io/images/logo_primary_color_onLight.svg width=3000 height=1000"> &nbsp;
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h4>🥅 Other</h4>
+<p>
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
+
+<h3 align="left">Connect with me:</h3>.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="yashwanths814" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814" /></p>
