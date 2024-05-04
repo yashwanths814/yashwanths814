@@ -3,7 +3,7 @@
 
 <hr>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="500">
+<img src="https://www.betterfinances.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbetterfinances-hero.1b35cc58.webp&w=828&q=75">
 
 <hr>
 -------------------------------------------
