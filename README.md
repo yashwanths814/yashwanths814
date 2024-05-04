@@ -140,7 +140,7 @@
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> &nbsp;
-<img src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/8ddbf0c60b1f4ec5b2f005305a2d3c28.jpeg" width=100 height=30> &nbsp;
+<img src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/8ddbf0c60b1f4ec5b2f005305a2d3c28.jpeg" width=80 height=35> &nbsp;
 <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
