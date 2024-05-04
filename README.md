@@ -140,12 +140,23 @@
 <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> &nbsp;
+<img src="https://academy-public.coinmarketcap.com/srd-optimized-uploads/8ddbf0c60b1f4ec5b2f005305a2d3c28.jpeg"> &nbsp;
+<img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p>
+<a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
+<a href="yashwanths814@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
+<a href="https://www.linkedin.com/in/yashwanths814/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> &nbsp;
+<a href="https://linktr.ee/yashwanths814"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
+<a href="https://twitter.com/yashwanths814"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a> &nbsp;
+<a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
+</p>
 
-<h3 align="left">Connect with me:</h3>.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="yashwanths814" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814" /></p>
