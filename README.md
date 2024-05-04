@@ -152,6 +152,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="yashwanths814" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
+
+
+
+
+
+
 <br>
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -162,4 +168,4 @@
 <a href="https://linktr.ee/yashwanths814"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
 <a href="https://twitter.com/yashwanths814"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></img></a> &nbsp;
 <a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
-</p>00
+</p>
