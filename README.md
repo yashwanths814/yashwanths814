@@ -12,7 +12,7 @@
 
 <h3 align="left">Skills and Tools Usage</h3>
 
-<h4 align="left">Programming Languages</h4>
+<h4 align="left">📋 Programming Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />&nbsp;
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />&nbsp;
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;
 </p>
 
-<h4 align="left">Frameworks</h4>
+<h4 align="left">📚 Frameworks</h4>
 <p>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> &nbsp;
 <img src="https://flutterflow.io/images/logo_primary_color_onLight.svg" width=120 height=30> &nbsp;
@@ -33,25 +33,25 @@
 <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"> 
 </p>
 
-<h4 align="left">Database</h4>
+<h4 align="left">💾 Database</h4>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 </p>
 
-<h4 align="left">Version Control</h4>
+<h4 align="left">🕓 Version Control</h4>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h4 align="left">Design</h4>
+<h4 align="left">🎨Design</h4>
 <p>
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
-<h4 align="left">IDEs/Editors</h4>
+<h4 align="left">💻 IDEs/Editors</h4>
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp;
@@ -61,19 +61,47 @@
 <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"> 
 </p>
 
-<h4 align="left">Cloud Storage</h4>
+<h4> ☁️ Hosting and 📂 Cloud Storage</h4>
 <p>
-<img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4"> &nbsp;
-<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> 
+<img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4">
 </p>
 
-<h4 align="left">Machine Learning</h4>
+<h4 align="left">🖥️ Machine Learning</h4>
 <p>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"> 
 </p>
-<h4 align="left">Blog/h4>
+<h4 align="left">🌐 Browsers</h4>
+<p>
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white"> 
+</p>
+
+<h4>🏢 Microsoft</h4>
+<p>
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+</p>
+
+<h4 align="left">🧑‍💻 Developer/Forums</h4>
+<p>
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"> &nbsp;
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"> 
+</p>
+<h4 align="left">📝 Blog</h4>
 <p>
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
