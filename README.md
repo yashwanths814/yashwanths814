@@ -24,9 +24,14 @@
 
 <h4 align="left">Frameworks</h4>
 <p>
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> &nbsp;
+<img src="https://asset.brandfetch.io/id209IGdxm/idN53FiTd9.png"> &nbsp;
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> &nbsp;
-
-
+<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> &nbsp;
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"> &nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> &nbsp;
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
 
