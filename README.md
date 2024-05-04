@@ -9,7 +9,7 @@
 
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
-<br>
+
 <h3 align="left">Skills and Tools Usage</h3>
 
 <h4 align="left">Programming Languages</h4>
