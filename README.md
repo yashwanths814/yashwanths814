@@ -102,7 +102,7 @@
 
 <h4>🎓 Education</h4>
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/W3Schools_logo.svg/2175px-W3Schools_logo.svg" width=40 height=40> &nbsp;
+<img src="https://avatars.githubusercontent.com/u/77673807?v=4" width=40 height=40> &nbsp;
 <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
 </p>
