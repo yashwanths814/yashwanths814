@@ -7,10 +7,11 @@
 
 <h4 align="left">Programming Languages</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
+![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
 <h4 align="left">Frameworks</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
