@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science and Engineering Student | Open-source Enthusiast</h3>
 
 <hr>
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" alt="Mindsphere" width=1000000"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" alt="Mindsphere" width=10000"/>
 
 <hr>
 -------------------------------------------
