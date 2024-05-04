@@ -3,7 +3,7 @@
 
 <hr>
 
-<img src="https://www.betterfinances.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbetterfinances-hero.1b35cc58.webp&w=828&q=75" alt="NatureWithTech" width=1000>
+<img src="NatureWithTech.jpg" alt="NatureWithTech" width=1100>
 
 <hr>
 -------------------------------------------
