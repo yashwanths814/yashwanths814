@@ -146,34 +146,12 @@
 <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
 </p>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814"/></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
+</br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p>
