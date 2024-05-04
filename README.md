@@ -7,6 +7,7 @@
 
 <h4 align="left">Programming Languages</h4>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
 ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
 <h4 align="left">Frameworks</h4>
 
