@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
 </p>
 
-<h4 align="left">🕓 Version Control/🔬 CI</h4>
+<h4 align="left">🕓 Version Control and 🔬 CI</h4>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> &nbsp;
