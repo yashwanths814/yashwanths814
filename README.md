@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<h4 align="left">🎨Design</h4>
+<h4 align="left">🎨 Design</h4>
 <p>
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> &nbsp;
@@ -67,6 +67,14 @@
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4">
+</p>
+
+<h4>🎛️ Operating System</h4>
+<p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
 
 <h4 align="left">🖥️ Machine Learning</h4>
@@ -92,6 +100,12 @@
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 </p>
 
+<h4>Education</h4>
+<p>
+<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"> &nbsp;
+<img src="https://media.licdn.com/dms/image/D4D12AQEoDS1iaNL-dA/article-cover_image-shrink_720_1280/0/1675056359235?e=2147483647&v=beta&t=_okL2TWpR9u8oWi_b-XuW9JRwsECgsrUv7-tno1hVlE" width=120 height=30> &nbsp;
+<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
+</p>
 <h4 align="left">🧑‍💻 Developer/Forums</h4>
 <p>
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> &nbsp;
