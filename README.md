@@ -152,7 +152,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="yashwanths814" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
-
+<br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
