@@ -15,7 +15,6 @@
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
 </p>
-<br>
 <details>
 <summary><h4 align="left">GSSOC(24) Badges 🪶</h4></summary>
 <div style='display:flex; align-items⬅️; gap: 10px;' align='left'>
@@ -138,8 +137,8 @@
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </p>
-
-<h4>🥅 Other</h4>
+<details>
+<summary><h4>🥅 Other</h4></summary>
 <p>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"> &nbsp;
@@ -155,7 +154,7 @@
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white">
 </p>
-
+</details>
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://discord.com/channels/yashwanths814"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a> &nbsp;
