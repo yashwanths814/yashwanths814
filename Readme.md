@@ -17,7 +17,7 @@
 </p>
 <details>
 <summary><h4 align="left">GSSOC(24) Badges 🪶</h4></summary>
-<div style='display:flex; align-items⬅️; gap: 10px;' align='left'>
+<div style='display:flex; align-items:left; gap: 10px'; align='left'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
