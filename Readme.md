@@ -15,6 +15,7 @@
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
 </p>
+<br>
 <details>
 <summary><h4 align="left">GSSOC(24) Badges 🪶</h4></summary>
 <div style='display:flex; align-items⬅️; gap: 10px;' align='left'>
