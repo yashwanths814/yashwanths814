@@ -165,8 +165,6 @@
 <a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
 </p>
 
-<h4 align="left">Sponcer🎁:</h4>
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yashwanths814)
 
 <h3 align="left">GitHub Stats:</h3>
 
