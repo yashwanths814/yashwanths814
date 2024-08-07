@@ -165,6 +165,9 @@
 <a href="https://www.instagram.com/yashwanths814"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a> &nbsp;
 </p>
 
+<h4 align="left">Sponcer🎁:</h4>
+![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yashwanths814)
+
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yashwanths814&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanths814"/></p>
@@ -172,8 +175,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
 <br>
 
-<h4 align="left">Sponcer🎁:</h4>
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/yashwanths814)
+
 
 
 
