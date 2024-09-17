@@ -41,7 +41,7 @@
 <h4 align="left">📚 Frameworks</h4>
 <p>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> &nbsp;
-<img src="https://flutterflow.io/images/logo_primary_color_onLight.svg" width=120 height=30> &nbsp;
+<img src="https://logowik.com/content/uploads/images/flutterflow2312.logowik.com.webp" width=120 height=30> &nbsp;
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> &nbsp;
