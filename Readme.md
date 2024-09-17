@@ -15,7 +15,7 @@
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
 </p>
-<details>
+
 <summary><h4 align="left">GSSOC(24) Badges 🪶</h4></summary>
 <div style='display:flex; align-items:left; gap: 10px'; align='left'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
@@ -25,7 +25,7 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
-</details>
+
 <h3 align="left">Skills and Tools Usage</h3>
 
 <h4 align="left">📋 Programming Languages</h4>
