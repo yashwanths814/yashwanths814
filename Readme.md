@@ -10,7 +10,7 @@
 <h3 align="left">About</h3>
 <p>A dedicated student with a keen interest in developing dependable applications. Demonstrates strong problem-solving abilities, a commitment to excellence, and a constant pursuit of enhancement.</p>
 <p>
-- 🔭 Check out my <a href="https://drive.google.com/file/d/1bRY40FKWpMLd4DNeZD43V-M4XLFv9BEe/view?usp=drive_link"><b>Resume</b></a><br>
+- 🔭 Check out my <a href="https://drive.google.com/file/d/1jdKojoMOlWf84imv-2-i_o99RTUZW7yb/view?usp=sharing"><b>Resume</b></a><br>
 - 💻 All of my projects are available on <a href="https://github.com/yashwanths814/"><b>GitHub</b></a><br>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.<br>
 - 👯 I am open to collaboration with creators, developers and tech enthusiasts.<br>
