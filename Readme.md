@@ -41,7 +41,7 @@
 <h4 align="left">📚 Frameworks</h4>
 <p>
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> &nbsp;
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdAAz3YQjy_iO6umQYhR5uMWH9WK9CdYnAQ&s" width=80 height=60> &nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMdAAz3YQjy_iO6umQYhR5uMWH9WK9CdYnAQ&s" width=100 height=30> &nbsp;
 <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"> &nbsp;
