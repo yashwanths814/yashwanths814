@@ -172,6 +172,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yashwanths814&show_icons=true&locale=en" alt="yashwanths814"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanths814&" alt="yashwanths814" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashwanths814&show_icons=true&locale=en&layout=compact" alt="yashwanths814" /></p>
 
 
 
