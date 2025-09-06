@@ -52,6 +52,12 @@
 <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"> 
 </p>
 
+<h4 align="left">📱 Mobile Development</h4>
+<p>
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"> 
+</p>
+
 <h4 align="left">💾 Database</h4>
 <p>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> &nbsp;
